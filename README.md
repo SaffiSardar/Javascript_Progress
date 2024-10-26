@@ -2,4 +2,4 @@
 
 Daily Progress:
 
-DATE   |    Work Done
+DATE----------|----------Work Done
